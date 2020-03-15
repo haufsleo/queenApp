@@ -4,9 +4,9 @@ import { FormsModule } from '@angular/forms';
 
 import { IonicModule } from '@ionic/angular';
 
-import { ListPageRoutingModule } from './list-routing.module';
+import { LoginPageRoutingModule } from './login-routing.module';
 
-import { ListPage } from './list.page';
+import { LoginPage } from './login.page';
 import { TranslateModule } from '@ngx-translate/core';
 
 @NgModule({
@@ -14,9 +14,9 @@ import { TranslateModule } from '@ngx-translate/core';
     CommonModule,
     FormsModule,
     IonicModule,
-    ListPageRoutingModule,
+    LoginPageRoutingModule,
     TranslateModule.forChild()
   ],
-  declarations: [ListPage]
+  declarations: [LoginPage]
 })
-export class ListPageModule {}
+export class LoginPageModule {}
