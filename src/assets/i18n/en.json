@@ -1,5 +1,14 @@
 {
-  "events": {
-    "title": "Events"
-  }
+	"calendar": {
+		"title": "Calendar"
+	},
+	"events": {
+		"title": "Events"
+	},
+	"login": {
+		"submit": "Login"
+	},
+	"newsletter": {
+		"title": "Newsletter"
+	}
 }

@@ -7,13 +7,15 @@ import { IonicModule } from '@ionic/angular';
 import { NewsletterPageRoutingModule } from './newsletter-routing.module';
 
 import { NewsletterPage } from './newsletter.page';
+import { TranslateModule } from '@ngx-translate/core';
 
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
-    NewsletterPageRoutingModule
+    NewsletterPageRoutingModule,
+    TranslateModule.forChild()
   ],
   declarations: [NewsletterPage]
 })

@@ -1,8 +1,14 @@
 {
-  "events": {
-    "title": "Veranstaltungen"
-  },
-  "login": {
-    "submit": "Login"
-  }
+	"calendar": {
+		"title": "Kalender"
+	},
+	"events": {
+		"title": "Veranstaltungen"
+	},
+	"login": {
+		"submit": "Login"
+	},
+	"newsletter": {
+		"title": "Newsletter"
+	}
 }

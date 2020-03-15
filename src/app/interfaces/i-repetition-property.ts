@@ -1,4 +1,4 @@
-interface RepetitionProperty {
+interface IRepetitionProperty {
   COUNT?: string;
   UNTIL?: string;
   INTERVAL?: string;

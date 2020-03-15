@@ -9,7 +9,7 @@ export class EventVM {
   toDate: Moment;
   wholeDay: boolean;
   place: string;
-  repetition: RepetitionProperty;
+  repetition: IRepetitionProperty;
   manager: string;
   media: Media[];
   addedTo: Media[];
@@ -25,7 +25,7 @@ export class EventVM {
     toDate: Moment,
     wholeDay: boolean,
     place: string,
-    repetition: RepetitionProperty,
+    repetition: IRepetitionProperty,
     media: Media[],
     addedTo: Media[],
     germanDescription: string,
