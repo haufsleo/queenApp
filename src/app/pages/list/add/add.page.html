@@ -6,7 +6,7 @@
       </ion-button>
     </ion-buttons>
 
-    <ion-title>{{'events.add.title' | translate}}</ion-title>
+    <ion-title>{{'events.add.pageTitle' | translate}}</ion-title>
 
     <ion-buttons slot="end">
       <ion-button>
@@ -16,4 +16,77 @@
   </ion-toolbar>
 </ion-header>
 
-<ion-content> </ion-content>
+<ion-content>
+  <ion-list>
+    <ion-item>
+      <ion-label position="floating">
+        {{'events.add.title' | translate}}
+      </ion-label>
+      <ion-input></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="floating">
+        {{'events.add.titleEn' | translate}}
+      </ion-label>
+      <ion-input></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="floating">
+        {{'events.add.fullTime' | translate}}
+      </ion-label>
+      <ion-toggle slot="end"></ion-toggle>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="floating">
+        {{'events.add.start' | translate}}
+      </ion-label>
+      <ion-datetime
+        displayFormat="DD.MM.YYYY hh:mm"
+        min="1994-01-01"
+      ></ion-datetime>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="floating">
+        {{'events.add.wdh' | translate}}
+      </ion-label>
+      <ion-select value="brown" okText="Okay" cancelText="Dismiss">
+        <ion-select-option value="brown">Brown</ion-select-option>
+        <ion-select-option value="blonde">Blonde</ion-select-option>
+        <ion-select-option value="black">Black</ion-select-option>
+        <ion-select-option value="red">Red</ion-select-option>
+      </ion-select>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="floating">
+        {{'events.add.location' | translate}}
+      </ion-label>
+      <ion-input></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="floating">
+        {{'events.add.management' | translate}}
+      </ion-label>
+      <ion-input></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="floating">
+        {{'events.add.description' | translate}}
+      </ion-label>
+      <ion-textarea rows="6" cols="20"></ion-textarea>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="floating">
+        {{'events.add.descriptionEn' | translate}}
+      </ion-label>
+      <ion-textarea rows="6" cols="20"></ion-textarea>
+    </ion-item>
+  </ion-list>
+</ion-content>

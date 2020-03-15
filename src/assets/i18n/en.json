@@ -5,8 +5,18 @@
 	"events": {
 		"add": {
 			"cancel": "Cancel",
+			"description": "Description",
+			"descriptionEn": "Description (en)",
+			"end": "End",
+			"fullTime": "Full-Time",
+			"location": "Location",
+			"management": "Evening Management",
+			"pageTitle": "Add event",
 			"save": "Save",
-			"title": "Add event"
+			"start": "Begin",
+			"title": "Title",
+			"titleEn": "Title (en)",
+			"wdh": "Reps"
 		},
 		"title": "Events"
 	},

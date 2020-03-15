@@ -5,8 +5,18 @@
 	"events": {
 		"add": {
 			"cancel": "Abbrechen",
+			"description": "Beschreibung",
+			"descriptionEn": "Beschreibung (en)",
+			"end": "Ende",
+			"fullTime": "Ganztägig",
+			"location": "Ort",
+			"management": "Abendleitung",
+			"pageTitle": "Event Hinzufügen",
 			"save": "Speichern",
-			"title": "Event Hinzufügen"
+			"start": "Start",
+			"title": "Titel",
+			"titleEn": "Titel (en)",
+			"wdh": "Wdh."
 		},
 		"title": "Veranstaltungen"
 	},
