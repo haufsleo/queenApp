@@ -1,3 +1,4 @@
+import { MomentModule } from 'ngx-moment';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
@@ -15,7 +16,8 @@ import { TranslateModule } from '@ngx-translate/core';
     FormsModule,
     IonicModule,
     ListPageRoutingModule,
-    TranslateModule.forChild()
+    TranslateModule.forChild(),
+    MomentModule
   ],
   declarations: [ListPage]
 })

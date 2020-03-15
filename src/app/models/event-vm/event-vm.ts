@@ -1,5 +1,5 @@
-import { Media } from './../../types/media.enum';
 import { Moment } from 'moment';
+import { Media } from '../types/media.enum';
 
 export class EventVM {
   id: number;

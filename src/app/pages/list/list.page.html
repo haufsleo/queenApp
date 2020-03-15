@@ -1,7 +1,53 @@
 <ion-header>
   <ion-toolbar>
     <ion-title>{{"events.title" | translate}}</ion-title>
+    <ion-buttons slot="end">
+      <ion-button (click)="addClicked()">
+        <ion-icon name="add-outline"></ion-icon>
+      </ion-button>
+    </ion-buttons>
   </ion-toolbar>
+  <ion-searchbar
+    showCancelButton="focus"
+    cancelButtonText="Custom Cancel"
+    [(ngModel)]="searchtext"
+  ></ion-searchbar>
 </ion-header>
 
-<ion-content> </ion-content>
+<ion-content>
+  <ion-list>
+    <ion-item *ngFor="let eventVM of filteredEventVMs" detail>
+      <div
+        class="color-stripe ion-no-padding"
+        [ngStyle]="{'background-color': eventVM.eventFinished? 'green' : 'red'}"
+      ></div>
+      <ion-label class="ion-text-wrap ion-padding-horizontal">
+        <p>{{eventVM.fromDate | amParse:'DD/MM/YYYY' | amDateFormat:'LL'}}</p>
+        <ion-text class="ion-text-wrap">
+          <p>{{eventVM.title}}</p>
+        </ion-text>
+      </ion-label>
+      <div class="indicator-icons-bar">
+        <ion-grid class="indicator-icons-bar-grid">
+          <ion-row>
+            <ion-icon
+              [name]="eventVM.repetition?'infinite-outline':''"
+            ></ion-icon>
+          </ion-row>
+          <ion-row>
+            <ion-icon
+              [name]="eventHasMediaType(eventVM, Media.NEWSLETTER) ?'mail-outline': ''"
+              [ngStyle]="{'color': eventHasMediaTypeSet(eventVM, Media.NEWSLETTER)?'green': 'black'}"
+            ></ion-icon>
+          </ion-row>
+          <ion-row>
+            <ion-icon
+              [name]="eventHasMediaType(eventVM, Media.CALENDAR) ?'calendar-outline': ''"
+              [ngStyle]="{'color': eventHasMediaTypeSet(eventVM, Media.CALENDAR)?'green': 'black'}"
+            ></ion-icon>
+          </ion-row>
+        </ion-grid>
+      </div>
+    </ion-item>
+  </ion-list>
+</ion-content>

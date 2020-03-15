@@ -1,9 +1,9 @@
 import { Injectable } from '@angular/core';
-import { ServerResultType } from '../types/server-result-type';
 import { HttpClient } from '@angular/common/http';
-import { ServerRequestType } from '../types/server-request-type';
 import { GlobalConstants } from '../../environments/global-constants';
-import { IEventsServerResultDataType } from '../interfaces/i-events-server-result-data-type';
+import { IEventsServerResultDataType } from '../models/interfaces/i-events-server-result-data-type';
+import { ServerRequestType } from '../models/types/server-request-type';
+import { ServerResultType } from '../models/types/server-result-type';
 
 @Injectable({
   providedIn: 'root'
@@ -17,7 +17,8 @@ export class ApiService {
   }
 
   private get(type: ServerRequestType) {
-    const url = GlobalConstants.SERVER_BASE_URL + '/' + type;
+    const url =
+      GlobalConstants.SERVER_BASE_URL + '/' + type + GlobalConstants.EXTENSION;
     return this.httpClient.get<ServerResultType>(url).toPromise();
   }
 }

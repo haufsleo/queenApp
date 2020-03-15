@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { BehaviorSubject } from 'rxjs';
 import { EventVM } from '../models/event-vm/event-vm';
 import { ApiService } from './api.service';
-import { IEventsServerResultDataType } from '../interfaces/i-events-server-result-data-type';
+import { IEventsServerResultDataType } from '../models/interfaces/i-events-server-result-data-type';
 import * as moment from 'moment';
 
 @Injectable({
