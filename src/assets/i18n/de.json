@@ -3,6 +3,11 @@
 		"title": "Kalender"
 	},
 	"events": {
+		"add": {
+			"cancel": "Abbrechen",
+			"save": "Speichern",
+			"title": "Event Hinzufügen"
+		},
 		"title": "Veranstaltungen"
 	},
 	"login": {

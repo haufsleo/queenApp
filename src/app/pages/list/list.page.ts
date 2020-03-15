@@ -3,6 +3,8 @@ import { EventVM } from '../../models/event-vm/event-vm';
 import { Subscription } from 'rxjs';
 import { DataService } from '../../services/data.service';
 import { Media } from '../../models/types/media.enum';
+import { ModalController } from '@ionic/angular';
+import { AddPage } from './add/add.page';
 
 @Component({
   selector: 'app-list',
@@ -10,7 +12,10 @@ import { Media } from '../../models/types/media.enum';
   styleUrls: ['./list.page.scss']
 })
 export class ListPage implements OnInit, OnDestroy {
-  constructor(private dataService: DataService) {}
+  constructor(
+    private dataService: DataService,
+    private modalController: ModalController
+  ) {}
   Media = Media;
   eventVMs: EventVM[] = [];
   private _eventVM$: Subscription;
@@ -49,5 +54,15 @@ export class ListPage implements OnInit, OnDestroy {
   eventHasMediaTypeSet(eventVM: EventVM, type: Media) {
     const index = eventVM.addedTo.findIndex((med: Media) => med === type);
     return index > -1;
+  }
+
+  async addClicked() {
+    const modal = await this.modalController.create({
+      component: AddPage,
+      presentingElement: await this.modalController.getTop(),
+      showBackdrop: true,
+      swipeToClose: true
+    });
+    return await modal.present();
   }
 }

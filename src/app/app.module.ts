@@ -12,10 +12,11 @@ import { AppComponent } from './app.component';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
+import { AddPage } from './pages/list/add/add.page';
 
 @NgModule({
-  declarations: [AppComponent],
-  entryComponents: [],
+  declarations: [AppComponent, AddPage],
+  entryComponents: [AddPage],
   imports: [
     BrowserModule,
     IonicModule.forRoot(),

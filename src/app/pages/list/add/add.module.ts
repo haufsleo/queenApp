@@ -1,25 +1,22 @@
-import { MomentModule } from 'ngx-moment';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 
 import { IonicModule } from '@ionic/angular';
 
-import { ListPageRoutingModule } from './list-routing.module';
+import { AddPageRoutingModule } from './add-routing.module';
 
-import { ListPage } from './list.page';
+import { AddPage } from './add.page';
 import { TranslateModule } from '@ngx-translate/core';
-import { AddPage } from './add/add.page';
 
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
-    ListPageRoutingModule,
-    TranslateModule.forChild(),
-    MomentModule
+    AddPageRoutingModule,
+    TranslateModule.forChild()
   ],
-  declarations: [ListPage]
+  declarations: [AddPage]
 })
-export class ListPageModule {}
+export class AddPageModule {}
