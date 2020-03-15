@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #65a3ff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Newsletter_Vorschau);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-10, .cls-12, .cls-15, .cls-4, .cls-5, .cls-8, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-4, .cls-5 {
+        font-size: 15px;
+      }
+
+      .cls-4 {
+        font-family: SFProDisplay-Medium, SF Pro Display;
+      }
+
+      .cls-13, .cls-4 {
+        font-weight: 500;
+      }
+
+      .cls-5 {
+        font-family: SFProDisplay-Regular, SF Pro Display;
+      }
+
+      .cls-6 {
+        fill: rgba(0,0,0,0);
+      }
+
+      .cls-11, .cls-7 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7, .cls-8 {
+        opacity: 0.4;
+      }
+
+      .cls-10 {
+        font-size: 12px;
+        font-family: SFProText-Regular, SF Pro Text;
+      }
+
+      .cls-11 {
+        stroke: #fff;
+      }
+
+      .cls-12 {
+        font-size: 10px;
+        font-family: SFProText-Semibold, SF Pro Text;
+        font-weight: 600;
+      }
+
+      .cls-13 {
+        fill: #222;
+        font-size: 15.5px;
+        font-family: HelveticaNeue-Medium, Helvetica Neue;
+      }
+
+      .cls-14, .cls-15 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Mask" class="cls-1" width="375" height="70.441" transform="translate(375 70.441) rotate(180)"/>
+    </clipPath>
+    <clipPath id="clip-Newsletter_Vorschau">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="Newsletter_Vorschau" data-name="Newsletter Vorschau" class="cls-2">
+    <rect class="cls-9" width="375" height="812"/>
+    <g id="nav_bar" data-name="nav bar" transform="translate(375) rotate(180)">
+      <g id="Group_24" data-name="Group 24" transform="translate(0 -70.441)">
+        <g id="nav_bar-2" data-name="nav bar">
+          <g id="Group_23" data-name="Group 23">
+            <g id="ui_pic" data-name="ui/pic">
+              <rect id="Mask-2" data-name="Mask" class="cls-1" width="375" height="70.441" transform="translate(375 70.441) rotate(180)"/>
+            </g>
+          </g>
+        </g>
+        <text id="Connect" class="cls-4" transform="translate(374.667 33.466) rotate(180)"><tspan x="156.636" y="14">Vorschau</tspan></text>
+        <text id="Connect-2" data-name="Connect" class="cls-5" transform="translate(82.667 33.466) rotate(180)"><tspan x="12.978" y="14">Senden</tspan></text>
+      </g>
+      <g id="Bars_Status_Black" data-name="Bars/Status/Black" transform="translate(375) rotate(180)">
+        <rect id="Bars_Status_Black_background" data-name="Bars/Status/Black background" class="cls-6" width="375" height="22.14"/>
+        <g id="Pin_Right" data-name="Pin Right" transform="translate(298.5 3.5)">
+          <g id="Battery" transform="translate(8.5)">
+            <g id="Battery-2" data-name="Battery" transform="translate(36 1)">
+              <g id="Border" class="cls-7">
+                <path class="cls-14" d="M0,2.5A2.5,2.5,0,0,1,2.5,0h19A2.5,2.5,0,0,1,24,2.5V9a2.5,2.5,0,0,1-2.5,2.5H2.5A2.5,2.5,0,0,1,0,9Z"/>
+                <path class="cls-15" d="M 2.5 1 C 1.67289924621582 1 1 1.672900199890137 1 2.5 L 1 9 C 1 9.827099800109863 1.67289924621582 10.5 2.5 10.5 L 20.14764022827148 10.5 L 21.5 10.5 C 22.32710075378418 10.5 23 9.827099800109863 23 9 L 23 2.5 C 23 1.672900199890137 22.32710075378418 1 21.5 1 L 2.5 1 M 2.5 0 L 21.5 0 C 22.88071060180664 0 24 1.119290351867676 24 2.5 L 24 9 C 24 10.38070964813232 22.88071060180664 11.5 21.5 11.5 L 20.14764022827148 11.5 L 0 11.5 L 2.5 11.5 C 1.119289398193359 11.5 0 10.38070964813232 0 9 L 0 2.5 C 0 1.119290351867676 1.119289398193359 0 2.5 0 Z"/>
+              </g>
+              <path id="Nub" class="cls-8" d="M0,3.874H0V0A2,2,0,0,1,1.5,1.937,2,2,0,0,1,0,3.873Z" transform="translate(25 4)"/>
+              <rect id="Charge" class="cls-9" width="20" height="7.5" rx="0.5" transform="translate(2 2)"/>
+            </g>
+            <text id="_100_" data-name="100%" class="cls-10"><tspan x="2.209" y="11">100%</tspan></text>
+          </g>
+          <path id="Bluetooth" class="cls-11" d="M0,2,6,7.5,3,10V0L6,2.5,0,8" transform="translate(0 1.5)"/>
+        </g>
+        <text id="Time" class="cls-12" transform="translate(183.5 14)"><tspan x="-20.137" y="0">9:41 AM</tspan></text>
+        <g id="Signal">
+          <rect id="Signal_background" data-name="Signal background" class="cls-6" width="139" height="20" transform="translate(0)"/>
+          <text id="Carrier" class="cls-10" transform="translate(26 14.5)"><tspan x="0" y="0">Sketch</tspan></text>
+          <path id="Mobile_Signal" data-name="Mobile Signal" class="cls-9" d="M14.5,10a1,1,0,0,1-1-1V1a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9a1,1,0,0,1-1,1ZM10,10A1,1,0,0,1,9,9V3a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9a1,1,0,0,1-1,1ZM5.5,10a1,1,0,0,1-1-1V5a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9a1,1,0,0,1-1,1ZM1,10A1,1,0,0,1,0,9V6.5a1,1,0,0,1,1-1H2a1,1,0,0,1,1,1V9a1,1,0,0,1-1,1Z" transform="translate(6 5)"/>
+          <path id="Wifi" class="cls-9" d="M7.17,10h0L4.958,7.788a3.5,3.5,0,0,1,4.424,0L7.171,10ZM3.892,6.724h0L2.477,5.306a7,7,0,0,1,9.387,0L10.448,6.722a5,5,0,0,0-6.555,0ZM1.414,4.245h0L0,2.83a10.5,10.5,0,0,1,14.341,0L12.927,4.244a8.5,8.5,0,0,0-11.512,0Z" transform="translate(71.33 5)"/>
+        </g>
+      </g>
+    </g>
+    <text id="Connect-3" data-name="Connect" class="cls-5" transform="translate(17 36.974)"><tspan x="2.56" y="14">Abbrechen</tspan></text>
+    <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam_voluptua._At_vero_eos_et_accusam_et_justo_duo_dolores_et_ea_rebum._Stet_clita_kasd_gubergren_no_sea_takimata_" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata " class="cls-13" transform="translate(17 88)"><tspan x="0" y="15">Lorem ipsum dolor sit amet, consetetur </tspan><tspan x="0" y="33">sadipscing elitr, sed diam nonumy eirmod </tspan><tspan x="0" y="51">tempor invidunt ut labore et dolore magna </tspan><tspan x="0" y="69">aliquyam erat, sed diam voluptua. At vero eos </tspan><tspan x="0" y="87">et accusam et justo duo dolores et ea rebum. </tspan><tspan x="0" y="105">Stet clita kasd gubergren, no sea takimata </tspan><tspan x="0" y="123">sanctus est Lorem ipsum dolor sit amet. </tspan><tspan x="0" y="141">Lorem ipsum dolor sit amet, consetetur </tspan><tspan x="0" y="159">sadipscing elitr, sed diam nonumy eirmod </tspan><tspan x="0" y="177">tempor invidunt ut labore et dolore magna </tspan><tspan x="0" y="195">aliquyam erat, sed diam voluptua. At vero eos </tspan><tspan x="0" y="213">et accusam et justo duo dolores et ea rebum. </tspan><tspan x="0" y="231">Stet clita kasd gubergren, no sea takimata </tspan><tspan x="0" y="249">sanctus est Lorem ipsum dolor sit amet.</tspan><tspan x="0" y="267">Lorem ipsum dolor sit amet, consetetur </tspan><tspan x="0" y="285">sadipscing elitr, sed diam nonumy eirmod </tspan><tspan x="0" y="303">tempor invidunt ut labore et dolore magna </tspan><tspan x="0" y="321">aliquyam erat, sed diam voluptua. At vero eos </tspan><tspan x="0" y="339">et accusam et justo duo dolores et ea rebum. </tspan><tspan x="0" y="357">Stet clita kasd gubergren, no sea takimata </tspan><tspan x="0" y="375">sanctus est Lorem ipsum dolor sit amet. </tspan><tspan x="0" y="393">Lorem ipsum dolor sit amet, consetetur </tspan><tspan x="0" y="411">sadipscing elitr, sed diam nonumy eirmod </tspan><tspan x="0" y="429">tempor invidunt ut labore et dolore magna </tspan><tspan x="0" y="447">aliquyam erat, sed diam voluptua. At vero eos </tspan><tspan x="0" y="465">et accusam et justo duo dolores et ea rebum. </tspan><tspan x="0" y="483">Stet clita kasd gubergren, no sea takimata </tspan><tspan x="0" y="501">sanctus est Lorem ipsum dolor sit amet.</tspan><tspan x="0" y="519">Lorem ipsum dolor sit amet, consetetur </tspan><tspan x="0" y="537">sadipscing elitr, sed diam nonumy eirmod </tspan><tspan x="0" y="555">tempor invidunt ut labore et dolore magna </tspan><tspan x="0" y="573">aliquyam erat, sed diam voluptua. At vero eos </tspan><tspan x="0" y="591">et accusam et justo duo dolores et ea rebum. </tspan><tspan x="0" y="609">Stet clita kasd gubergren, no sea takimata </tspan><tspan x="0" y="627">sanctus est Lorem ipsum dolor sit amet. </tspan><tspan x="0" y="645">Lorem ipsum dolor sit amet, consetetur </tspan><tspan x="0" y="663">sadipscing elitr, sed diam nonumy eirmod </tspan><tspan x="0" y="681">tempor invidunt ut labore et dolore magna </tspan><tspan x="0" y="699">aliquyam erat, sed diam voluptua. At vero eos </tspan><tspan x="0" y="717">et accusam et justo duo dolores et ea rebum</tspan></text>
+  </g>
+</svg>

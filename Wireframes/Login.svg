@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #65a3ff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Login);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-11, .cls-13, .cls-16, .cls-18, .cls-4, .cls-7, .cls-8, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        font-size: 15px;
+      }
+
+      .cls-12, .cls-4 {
+        font-family: SFProDisplay-Medium, SF Pro Display;
+        font-weight: 500;
+      }
+
+      .cls-5 {
+        fill: rgba(0,0,0,0);
+      }
+
+      .cls-10, .cls-19, .cls-6 {
+        fill: none;
+      }
+
+      .cls-10, .cls-13, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6, .cls-7 {
+        opacity: 0.4;
+      }
+
+      .cls-9 {
+        font-size: 12px;
+        font-family: SFProText-Regular, SF Pro Text;
+      }
+
+      .cls-10 {
+        stroke: #fff;
+      }
+
+      .cls-11 {
+        font-size: 10px;
+        font-family: SFProText-Semibold, SF Pro Text;
+      }
+
+      .cls-11, .cls-16 {
+        font-weight: 600;
+      }
+
+      .cls-12 {
+        fill: #7b7b7b;
+        font-size: 13.049px;
+      }
+
+      .cls-13 {
+        stroke: #8b8b8b;
+        stroke-width: 1.346px;
+      }
+
+      .cls-14 {
+        fill: #ddd;
+      }
+
+      .cls-15 {
+        fill: #b3b3b3;
+      }
+
+      .cls-16 {
+        font-size: 15.475px;
+        font-family: SFProDisplay-Semibold, SF Pro Display;
+      }
+
+      .cls-17, .cls-18 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Mask" class="cls-1" width="375" height="70.441" transform="translate(375 70.441) rotate(180)"/>
+    </clipPath>
+    <clipPath id="clip-Login">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="Login" class="cls-2">
+    <rect class="cls-8" width="375" height="812"/>
+    <g id="nav_bar" data-name="nav bar" transform="translate(375) rotate(180)">
+      <g id="Group_24" data-name="Group 24" transform="translate(0 -70.441)">
+        <g id="nav_bar-2" data-name="nav bar">
+          <g id="Group_23" data-name="Group 23">
+            <g id="ui_pic" data-name="ui/pic">
+              <rect id="Mask-2" data-name="Mask" class="cls-1" width="375" height="70.441" transform="translate(375 70.441) rotate(180)"/>
+            </g>
+          </g>
+        </g>
+        <text id="Connect" class="cls-4" transform="translate(341.667 33.466) rotate(180)"><tspan x="136.233" y="14">Login</tspan></text>
+      </g>
+      <g id="Bars_Status_Black" data-name="Bars/Status/Black" transform="translate(375) rotate(180)">
+        <rect id="Bars_Status_Black_background" data-name="Bars/Status/Black background" class="cls-5" width="375" height="22.14"/>
+        <g id="Pin_Right" data-name="Pin Right" transform="translate(298.5 3.5)">
+          <g id="Battery" transform="translate(8.5)">
+            <g id="Battery-2" data-name="Battery" transform="translate(36 1)">
+              <g id="Border" class="cls-6">
+                <path class="cls-17" d="M0,2.5A2.5,2.5,0,0,1,2.5,0h19A2.5,2.5,0,0,1,24,2.5V9a2.5,2.5,0,0,1-2.5,2.5H2.5A2.5,2.5,0,0,1,0,9Z"/>
+                <path class="cls-18" d="M 2.5 1 C 1.67289924621582 1 1 1.672900199890137 1 2.5 L 1 9 C 1 9.827099800109863 1.67289924621582 10.5 2.5 10.5 L 20.14764022827148 10.5 L 21.5 10.5 C 22.32710075378418 10.5 23 9.827099800109863 23 9 L 23 2.5 C 23 1.672900199890137 22.32710075378418 1 21.5 1 L 2.5 1 M 2.5 0 L 21.5 0 C 22.88071060180664 0 24 1.119290351867676 24 2.5 L 24 9 C 24 10.38070964813232 22.88071060180664 11.5 21.5 11.5 L 20.14764022827148 11.5 L 0 11.5 L 2.5 11.5 C 1.119289398193359 11.5 0 10.38070964813232 0 9 L 0 2.5 C 0 1.119290351867676 1.119289398193359 0 2.5 0 Z"/>
+              </g>
+              <path id="Nub" class="cls-7" d="M0,3.874H0V0A2,2,0,0,1,1.5,1.937,2,2,0,0,1,0,3.873Z" transform="translate(25 4)"/>
+              <rect id="Charge" class="cls-8" width="20" height="7.5" rx="0.5" transform="translate(2 2)"/>
+            </g>
+            <text id="_100_" data-name="100%" class="cls-9"><tspan x="2.209" y="11">100%</tspan></text>
+          </g>
+          <path id="Bluetooth" class="cls-10" d="M0,2,6,7.5,3,10V0L6,2.5,0,8" transform="translate(0 1.5)"/>
+        </g>
+        <text id="Time" class="cls-11" transform="translate(183.5 14)"><tspan x="-20.137" y="0">9:41 AM</tspan></text>
+        <g id="Signal">
+          <rect id="Signal_background" data-name="Signal background" class="cls-5" width="139" height="20" transform="translate(0)"/>
+          <text id="Carrier" class="cls-9" transform="translate(26 14.5)"><tspan x="0" y="0">Sketch</tspan></text>
+          <path id="Mobile_Signal" data-name="Mobile Signal" class="cls-8" d="M14.5,10a1,1,0,0,1-1-1V1a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9a1,1,0,0,1-1,1ZM10,10A1,1,0,0,1,9,9V3a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9a1,1,0,0,1-1,1ZM5.5,10a1,1,0,0,1-1-1V5a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9a1,1,0,0,1-1,1ZM1,10A1,1,0,0,1,0,9V6.5a1,1,0,0,1,1-1H2a1,1,0,0,1,1,1V9a1,1,0,0,1-1,1Z" transform="translate(6 5)"/>
+          <path id="Wifi" class="cls-8" d="M7.17,10h0L4.958,7.788a3.5,3.5,0,0,1,4.424,0L7.171,10ZM3.892,6.724h0L2.477,5.306a7,7,0,0,1,9.387,0L10.448,6.722a5,5,0,0,0-6.555,0ZM1.414,4.245h0L0,2.83a10.5,10.5,0,0,1,14.341,0L12.927,4.244a8.5,8.5,0,0,0-11.512,0Z" transform="translate(71.33 5)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(-1 -160)">
+      <text id="Connect_Copy" data-name="Connect Copy" class="cls-12" transform="translate(64.209 495.674)"><tspan x="-46.94" y="0">Forget password</tspan></text>
+      <g id="Group_1" data-name="Group 1">
+        <g id="Rectangle_34" data-name="Rectangle 34" class="cls-13" transform="translate(16.361 353.182)">
+          <rect class="cls-17" width="344.717" height="48.449" rx="4.037"/>
+          <rect class="cls-19" x="0.673" y="0.673" width="343.371" height="47.103" rx="3.364"/>
+        </g>
+        <rect id="Base" class="cls-14" width="175.564" height="11.898" rx="4.421" transform="translate(71.872 371.604)"/>
+        <rect id="Rectangle" class="cls-15" width="17.271" height="17.271" rx="5.373" transform="translate(29.859 368.917)"/>
+        <g id="Rectangle_34-2" data-name="Rectangle 34" class="cls-13" transform="translate(16.361 418.044)">
+          <rect class="cls-17" width="344.717" height="48.449" rx="4.037"/>
+          <rect class="cls-19" x="0.673" y="0.673" width="343.371" height="47.103" rx="3.364"/>
+        </g>
+        <rect id="Base-2" data-name="Base" class="cls-14" width="11.514" height="11.898" rx="5.757" transform="translate(61.33 436.466)"/>
+        <rect id="Base_Copy" data-name="Base Copy" class="cls-14" width="11.514" height="11.898" rx="5.757" transform="translate(83.227 436.466)"/>
+        <rect id="Base_Copy_2" data-name="Base Copy 2" class="cls-14" width="11.514" height="11.898" rx="5.757" transform="translate(96.92 436.466)"/>
+        <rect id="Base_Copy_3" data-name="Base Copy 3" class="cls-14" width="11.514" height="11.898" rx="5.757" transform="translate(114.636 436.466)"/>
+        <rect id="Base_Copy_4" data-name="Base Copy 4" class="cls-14" width="11.514" height="11.898" rx="5.757" transform="translate(132.352 436.466)"/>
+        <rect id="Base_Copy_5" data-name="Base Copy 5" class="cls-14" width="11.514" height="11.898" rx="5.757" transform="translate(150.069 436.466)"/>
+        <rect id="Rectangle-2" data-name="Rectangle" class="cls-15" width="17.271" height="17.271" rx="5.373" transform="translate(29.859 433.78)"/>
+        <rect id="Rectangle-3" data-name="Rectangle" class="cls-15" width="17.271" height="17.271" rx="5.373" transform="translate(328.071 433.78)"/>
+      </g>
+      <g id="button" transform="translate(15.658 514.953)">
+        <g id="Button_Get_Started" data-name="Button/Get Started">
+          <g id="Button-2" data-name="Button">
+            <rect id="Base-3" data-name="Base" class="cls-1" width="345.42" height="50.662" rx="25.331"/>
+            <text id="Button-3" data-name="Button" class="cls-16" transform="translate(34.062 15.722)"><tspan x="119.724" y="15">Login</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,431 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #65a3ff;
+      }
+
+      .cls-11, .cls-2, .cls-25, .cls-7 {
+        fill: none;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-Newsletter);
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-10, .cls-12, .cls-13, .cls-28, .cls-5, .cls-8, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-13, .cls-5 {
+        font-size: 15px;
+      }
+
+      .cls-5 {
+        font-family: SFProDisplay-Medium, SF Pro Display;
+      }
+
+      .cls-23, .cls-5 {
+        font-weight: 500;
+      }
+
+      .cls-6 {
+        fill: rgba(0,0,0,0);
+      }
+
+      .cls-11, .cls-7 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7, .cls-8 {
+        opacity: 0.4;
+      }
+
+      .cls-10 {
+        font-size: 12px;
+        font-family: SFProText-Regular, SF Pro Text;
+      }
+
+      .cls-11 {
+        stroke: #fff;
+      }
+
+      .cls-12 {
+        font-size: 10px;
+        font-family: SFProText-Semibold, SF Pro Text;
+        font-weight: 600;
+      }
+
+      .cls-13 {
+        font-family: SFProDisplay-Regular, SF Pro Display;
+      }
+
+      .cls-14 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-15 {
+        fill: #f2f2f2;
+      }
+
+      .cls-16 {
+        fill: #cfcfcf;
+      }
+
+      .cls-17 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-18 {
+        fill: #58ad44;
+      }
+
+      .cls-19, .cls-20 {
+        fill: #707070;
+        font-family: HelveticaNeue, Helvetica Neue;
+      }
+
+      .cls-19 {
+        font-size: 14px;
+      }
+
+      .cls-20 {
+        font-size: 20px;
+      }
+
+      .cls-21 {
+        fill: #caddfb;
+      }
+
+      .cls-22, .cls-23 {
+        fill: #4889f6;
+      }
+
+      .cls-23 {
+        font-size: 13px;
+        font-family: HelveticaNeue-Medium, Helvetica Neue;
+      }
+
+      .cls-24 {
+        fill: #f4f4f4;
+      }
+
+      .cls-25 {
+        stroke: #eaeaea;
+        stroke-width: 2px;
+      }
+
+      .cls-26 {
+        fill: #9c9c9e;
+      }
+
+      .cls-27, .cls-28 {
+        stroke: none;
+      }
+
+      .cls-29 {
+        filter: url(#Ellipse_68-7);
+      }
+
+      .cls-30 {
+        filter: url(#Ellipse_68-6);
+      }
+
+      .cls-31 {
+        filter: url(#Ellipse_68-5);
+      }
+
+      .cls-32 {
+        filter: url(#Ellipse_68-4);
+      }
+
+      .cls-33 {
+        filter: url(#Ellipse_68-3);
+      }
+
+      .cls-34 {
+        filter: url(#Ellipse_68-2);
+      }
+
+      .cls-35 {
+        filter: url(#Ellipse_68);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Mask" class="cls-1" width="375" height="70.441" transform="translate(375 70.441) rotate(180)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect class="cls-2" width="375" height="679"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect class="cls-2" width="8" height="96"/>
+    </clipPath>
+    <filter id="Ellipse_68" x="332.5" y="105.5" width="29" height="29" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.294"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_68-2" x="332.5" y="206.5" width="29" height="29" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-2"/>
+      <feFlood flood-opacity="0.294"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_68-3" x="332.5" y="307.5" width="29" height="29" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-3"/>
+      <feFlood flood-opacity="0.294"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_68-4" x="332.5" y="408.5" width="29" height="29" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-4"/>
+      <feFlood flood-opacity="0.294"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_68-5" x="332.5" y="509.5" width="29" height="29" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-5"/>
+      <feFlood flood-opacity="0.294"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_68-6" x="332.5" y="610.5" width="29" height="29" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-6"/>
+      <feFlood flood-opacity="0.294"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_68-7" x="332.5" y="711.5" width="29" height="29" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-7"/>
+      <feFlood flood-opacity="0.294"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Newsletter">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="Newsletter" class="cls-3">
+    <rect class="cls-9" width="375" height="812"/>
+    <g id="nav_bar" data-name="nav bar" transform="translate(375) rotate(180)">
+      <g id="Group_24" data-name="Group 24" transform="translate(0 -70.441)">
+        <g id="nav_bar-2" data-name="nav bar">
+          <g id="Group_23" data-name="Group 23">
+            <g id="ui_pic" data-name="ui/pic">
+              <rect id="Mask-2" data-name="Mask" class="cls-1" width="375" height="70.441" transform="translate(375 70.441) rotate(180)"/>
+            </g>
+          </g>
+        </g>
+        <text id="Connect" class="cls-5" transform="translate(341.667 33.466) rotate(180)"><tspan x="120.937" y="14">Woche 42</tspan></text>
+      </g>
+      <g id="Bars_Status_Black" data-name="Bars/Status/Black" transform="translate(375) rotate(180)">
+        <rect id="Bars_Status_Black_background" data-name="Bars/Status/Black background" class="cls-6" width="375" height="22.14"/>
+        <g id="Pin_Right" data-name="Pin Right" transform="translate(298.5 3.5)">
+          <g id="Battery" transform="translate(8.5)">
+            <g id="Battery-2" data-name="Battery" transform="translate(36 1)">
+              <g id="Border" class="cls-7">
+                <path class="cls-27" d="M0,2.5A2.5,2.5,0,0,1,2.5,0h19A2.5,2.5,0,0,1,24,2.5V9a2.5,2.5,0,0,1-2.5,2.5H2.5A2.5,2.5,0,0,1,0,9Z"/>
+                <path class="cls-28" d="M 2.5 1 C 1.67289924621582 1 1 1.672900199890137 1 2.5 L 1 9 C 1 9.827099800109863 1.67289924621582 10.5 2.5 10.5 L 20.14764022827148 10.5 L 21.5 10.5 C 22.32710075378418 10.5 23 9.827099800109863 23 9 L 23 2.5 C 23 1.672900199890137 22.32710075378418 1 21.5 1 L 2.5 1 M 2.5 0 L 21.5 0 C 22.88071060180664 0 24 1.119290351867676 24 2.5 L 24 9 C 24 10.38070964813232 22.88071060180664 11.5 21.5 11.5 L 20.14764022827148 11.5 L 0 11.5 L 2.5 11.5 C 1.119289398193359 11.5 0 10.38070964813232 0 9 L 0 2.5 C 0 1.119290351867676 1.119289398193359 0 2.5 0 Z"/>
+              </g>
+              <path id="Nub" class="cls-8" d="M0,3.874H0V0A2,2,0,0,1,1.5,1.937,2,2,0,0,1,0,3.873Z" transform="translate(25 4)"/>
+              <rect id="Charge" class="cls-9" width="20" height="7.5" rx="0.5" transform="translate(2 2)"/>
+            </g>
+            <text id="_100_" data-name="100%" class="cls-10"><tspan x="2.209" y="11">100%</tspan></text>
+          </g>
+          <path id="Bluetooth" class="cls-11" d="M0,2,6,7.5,3,10V0L6,2.5,0,8" transform="translate(0 1.5)"/>
+        </g>
+        <text id="Time" class="cls-12" transform="translate(183.5 14)"><tspan x="-20.137" y="0">9:41 AM</tspan></text>
+        <g id="Signal">
+          <rect id="Signal_background" data-name="Signal background" class="cls-6" width="139" height="20" transform="translate(0)"/>
+          <text id="Carrier" class="cls-10" transform="translate(26 14.5)"><tspan x="0" y="0">Sketch</tspan></text>
+          <path id="Mobile_Signal" data-name="Mobile Signal" class="cls-9" d="M14.5,10a1,1,0,0,1-1-1V1a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9a1,1,0,0,1-1,1ZM10,10A1,1,0,0,1,9,9V3a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9a1,1,0,0,1-1,1ZM5.5,10a1,1,0,0,1-1-1V5a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9a1,1,0,0,1-1,1ZM1,10A1,1,0,0,1,0,9V6.5a1,1,0,0,1,1-1H2a1,1,0,0,1,1,1V9a1,1,0,0,1-1,1Z" transform="translate(6 5)"/>
+          <path id="Wifi" class="cls-9" d="M7.17,10h0L4.958,7.788a3.5,3.5,0,0,1,4.424,0L7.171,10ZM3.892,6.724h0L2.477,5.306a7,7,0,0,1,9.387,0L10.448,6.722a5,5,0,0,0-6.555,0ZM1.414,4.245h0L0,2.83a10.5,10.5,0,0,1,14.341,0L12.927,4.244a8.5,8.5,0,0,0-11.512,0Z" transform="translate(71.33 5)"/>
+        </g>
+      </g>
+    </g>
+    <text id="Connect-2" data-name="Connect" class="cls-13" transform="translate(292.333 36.974)"><tspan x="7.65" y="14">Vorschau</tspan></text>
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" class="cls-14" transform="translate(0 70)">
+      <g transform="translate(0 -71)">
+        <rect id="Rectangle" class="cls-15" width="374.5" height="95.678" transform="translate(0.5 71.003)"/>
+        <rect id="Rectangle_Copy" data-name="Rectangle Copy" class="cls-16" width="326.614" height="0.384" transform="translate(0.5 166.185)"/>
+        <g id="Repeat_Grid_2" data-name="Repeat Grid 2" class="cls-17" transform="translate(0 71)">
+          <g transform="translate(0 -71)">
+            <g id="Repeat_Grid_3" data-name="Repeat Grid 3" class="cls-17" transform="translate(0 71)">
+              <g transform="translate(0 -71)">
+                <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-18" width="8" height="96" transform="translate(0 71)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <text id="Montag_02.03.2023" data-name="Montag, 02.03.2023" class="cls-19" transform="translate(24 97)"><tspan x="0" y="0">Montag, 02.03.2023</tspan></text>
+        <text id="Ein_sehr_langer_Titel_der_über_mehrere_Zeilen_gehen_kann" data-name="Ein sehr langer Titel, der über
+mehrere Zeilen gehen kann" class="cls-20" transform="translate(24 127)"><tspan x="0" y="0">Ein sehr langer Titel, der über</tspan><tspan x="0" y="24">mehrere Zeilen gehen kann</tspan></text>
+        <g id="Group_451" data-name="Group 451" transform="translate(10 -75)">
+          <rect id="Rectangle_135" data-name="Rectangle 135" class="cls-21" width="33" height="12" rx="6" transform="translate(312 187)"/>
+          <g class="cls-35" transform="matrix(1, 0, 0, 1, -10, 76)">
+            <circle id="Ellipse_68-8" data-name="Ellipse 68" class="cls-22" cx="10" cy="10" r="10" transform="translate(337 107)"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(0 30)">
+        <rect id="Rectangle-2" data-name="Rectangle" class="cls-15" width="374.5" height="95.678" transform="translate(0.5 71.003)"/>
+        <rect id="Rectangle_Copy-2" data-name="Rectangle Copy" class="cls-16" width="326.614" height="0.384" transform="translate(0.5 166.185)"/>
+        <g id="Repeat_Grid_2-2" data-name="Repeat Grid 2" class="cls-17" transform="translate(0 71)">
+          <g transform="translate(0 -71)">
+            <g id="Repeat_Grid_3-2" data-name="Repeat Grid 3" class="cls-17" transform="translate(0 71)">
+              <g transform="translate(0 -71)">
+                <rect id="Rectangle_1-2" data-name="Rectangle 1" class="cls-18" width="8" height="96" transform="translate(0 71)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <text id="Montag_02.03.2023-2" data-name="Montag, 02.03.2023" class="cls-19" transform="translate(24 97)"><tspan x="0" y="0">Montag, 02.03.2023</tspan></text>
+        <text id="Ein_sehr_langer_Titel_der_über_mehrere_Zeilen_gehen_kann-2" data-name="Ein sehr langer Titel, der über
+mehrere Zeilen gehen kann" class="cls-20" transform="translate(24 127)"><tspan x="0" y="0">Ein sehr langer Titel, der über</tspan><tspan x="0" y="24">mehrere Zeilen gehen kann</tspan></text>
+        <g id="Group_451-2" data-name="Group 451" transform="translate(10 -75)">
+          <rect id="Rectangle_135-2" data-name="Rectangle 135" class="cls-21" width="33" height="12" rx="6" transform="translate(312 187)"/>
+          <g class="cls-34" transform="matrix(1, 0, 0, 1, -10, -25)">
+            <circle id="Ellipse_68-9" data-name="Ellipse 68" class="cls-22" cx="10" cy="10" r="10" transform="translate(337 208)"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(0 131)">
+        <rect id="Rectangle-3" data-name="Rectangle" class="cls-15" width="374.5" height="95.678" transform="translate(0.5 71.003)"/>
+        <rect id="Rectangle_Copy-3" data-name="Rectangle Copy" class="cls-16" width="326.614" height="0.384" transform="translate(0.5 166.185)"/>
+        <g id="Repeat_Grid_2-3" data-name="Repeat Grid 2" class="cls-17" transform="translate(0 71)">
+          <g transform="translate(0 -71)">
+            <g id="Repeat_Grid_3-3" data-name="Repeat Grid 3" class="cls-17" transform="translate(0 71)">
+              <g transform="translate(0 -71)">
+                <rect id="Rectangle_1-3" data-name="Rectangle 1" class="cls-18" width="8" height="96" transform="translate(0 71)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <text id="Montag_02.03.2023-3" data-name="Montag, 02.03.2023" class="cls-19" transform="translate(24 97)"><tspan x="0" y="0">Montag, 02.03.2023</tspan></text>
+        <text id="Ein_sehr_langer_Titel_der_über_mehrere_Zeilen_gehen_kann-3" data-name="Ein sehr langer Titel, der über
+mehrere Zeilen gehen kann" class="cls-20" transform="translate(24 127)"><tspan x="0" y="0">Ein sehr langer Titel, der über</tspan><tspan x="0" y="24">mehrere Zeilen gehen kann</tspan></text>
+        <g id="Group_451-3" data-name="Group 451" transform="translate(10 -75)">
+          <rect id="Rectangle_135-3" data-name="Rectangle 135" class="cls-21" width="33" height="12" rx="6" transform="translate(312 187)"/>
+          <g class="cls-33" transform="matrix(1, 0, 0, 1, -10, -126)">
+            <circle id="Ellipse_68-10" data-name="Ellipse 68" class="cls-22" cx="10" cy="10" r="10" transform="translate(337 309)"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(0 232)">
+        <rect id="Rectangle-4" data-name="Rectangle" class="cls-15" width="374.5" height="95.678" transform="translate(0.5 71.003)"/>
+        <rect id="Rectangle_Copy-4" data-name="Rectangle Copy" class="cls-16" width="326.614" height="0.384" transform="translate(0.5 166.185)"/>
+        <g id="Repeat_Grid_2-4" data-name="Repeat Grid 2" class="cls-17" transform="translate(0 71)">
+          <g transform="translate(0 -71)">
+            <g id="Repeat_Grid_3-4" data-name="Repeat Grid 3" class="cls-17" transform="translate(0 71)">
+              <g transform="translate(0 -71)">
+                <rect id="Rectangle_1-4" data-name="Rectangle 1" class="cls-18" width="8" height="96" transform="translate(0 71)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <text id="Montag_02.03.2023-4" data-name="Montag, 02.03.2023" class="cls-19" transform="translate(24 97)"><tspan x="0" y="0">Montag, 02.03.2023</tspan></text>
+        <text id="Ein_sehr_langer_Titel_der_über_mehrere_Zeilen_gehen_kann-4" data-name="Ein sehr langer Titel, der über
+mehrere Zeilen gehen kann" class="cls-20" transform="translate(24 127)"><tspan x="0" y="0">Ein sehr langer Titel, der über</tspan><tspan x="0" y="24">mehrere Zeilen gehen kann</tspan></text>
+        <g id="Group_451-4" data-name="Group 451" transform="translate(10 -75)">
+          <rect id="Rectangle_135-4" data-name="Rectangle 135" class="cls-21" width="33" height="12" rx="6" transform="translate(312 187)"/>
+          <g class="cls-32" transform="matrix(1, 0, 0, 1, -10, -227)">
+            <circle id="Ellipse_68-11" data-name="Ellipse 68" class="cls-22" cx="10" cy="10" r="10" transform="translate(337 410)"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(0 333)">
+        <rect id="Rectangle-5" data-name="Rectangle" class="cls-15" width="374.5" height="95.678" transform="translate(0.5 71.003)"/>
+        <rect id="Rectangle_Copy-5" data-name="Rectangle Copy" class="cls-16" width="326.614" height="0.384" transform="translate(0.5 166.185)"/>
+        <g id="Repeat_Grid_2-5" data-name="Repeat Grid 2" class="cls-17" transform="translate(0 71)">
+          <g transform="translate(0 -71)">
+            <g id="Repeat_Grid_3-5" data-name="Repeat Grid 3" class="cls-17" transform="translate(0 71)">
+              <g transform="translate(0 -71)">
+                <rect id="Rectangle_1-5" data-name="Rectangle 1" class="cls-18" width="8" height="96" transform="translate(0 71)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <text id="Montag_02.03.2023-5" data-name="Montag, 02.03.2023" class="cls-19" transform="translate(24 97)"><tspan x="0" y="0">Montag, 02.03.2023</tspan></text>
+        <text id="Ein_sehr_langer_Titel_der_über_mehrere_Zeilen_gehen_kann-5" data-name="Ein sehr langer Titel, der über
+mehrere Zeilen gehen kann" class="cls-20" transform="translate(24 127)"><tspan x="0" y="0">Ein sehr langer Titel, der über</tspan><tspan x="0" y="24">mehrere Zeilen gehen kann</tspan></text>
+        <g id="Group_451-5" data-name="Group 451" transform="translate(10 -75)">
+          <rect id="Rectangle_135-5" data-name="Rectangle 135" class="cls-21" width="33" height="12" rx="6" transform="translate(312 187)"/>
+          <g class="cls-31" transform="matrix(1, 0, 0, 1, -10, -328)">
+            <circle id="Ellipse_68-12" data-name="Ellipse 68" class="cls-22" cx="10" cy="10" r="10" transform="translate(337 511)"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(0 434)">
+        <rect id="Rectangle-6" data-name="Rectangle" class="cls-15" width="374.5" height="95.678" transform="translate(0.5 71.003)"/>
+        <rect id="Rectangle_Copy-6" data-name="Rectangle Copy" class="cls-16" width="326.614" height="0.384" transform="translate(0.5 166.185)"/>
+        <g id="Repeat_Grid_2-6" data-name="Repeat Grid 2" class="cls-17" transform="translate(0 71)">
+          <g transform="translate(0 -71)">
+            <g id="Repeat_Grid_3-6" data-name="Repeat Grid 3" class="cls-17" transform="translate(0 71)">
+              <g transform="translate(0 -71)">
+                <rect id="Rectangle_1-6" data-name="Rectangle 1" class="cls-18" width="8" height="96" transform="translate(0 71)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <text id="Montag_02.03.2023-6" data-name="Montag, 02.03.2023" class="cls-19" transform="translate(24 97)"><tspan x="0" y="0">Montag, 02.03.2023</tspan></text>
+        <text id="Ein_sehr_langer_Titel_der_über_mehrere_Zeilen_gehen_kann-6" data-name="Ein sehr langer Titel, der über
+mehrere Zeilen gehen kann" class="cls-20" transform="translate(24 127)"><tspan x="0" y="0">Ein sehr langer Titel, der über</tspan><tspan x="0" y="24">mehrere Zeilen gehen kann</tspan></text>
+        <g id="Group_451-6" data-name="Group 451" transform="translate(10 -75)">
+          <rect id="Rectangle_135-6" data-name="Rectangle 135" class="cls-21" width="33" height="12" rx="6" transform="translate(312 187)"/>
+          <g class="cls-30" transform="matrix(1, 0, 0, 1, -10, -429)">
+            <circle id="Ellipse_68-13" data-name="Ellipse 68" class="cls-22" cx="10" cy="10" r="10" transform="translate(337 612)"/>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(0 535)">
+        <rect id="Rectangle-7" data-name="Rectangle" class="cls-15" width="374.5" height="95.678" transform="translate(0.5 71.003)"/>
+        <rect id="Rectangle_Copy-7" data-name="Rectangle Copy" class="cls-16" width="326.614" height="0.384" transform="translate(0.5 166.185)"/>
+        <g id="Repeat_Grid_2-7" data-name="Repeat Grid 2" class="cls-17" transform="translate(0 71)">
+          <g transform="translate(0 -71)">
+            <g id="Repeat_Grid_3-7" data-name="Repeat Grid 3" class="cls-17" transform="translate(0 71)">
+              <g transform="translate(0 -71)">
+                <rect id="Rectangle_1-7" data-name="Rectangle 1" class="cls-18" width="8" height="96" transform="translate(0 71)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <text id="Montag_02.03.2023-7" data-name="Montag, 02.03.2023" class="cls-19" transform="translate(24 97)"><tspan x="0" y="0">Montag, 02.03.2023</tspan></text>
+        <text id="Ein_sehr_langer_Titel_der_über_mehrere_Zeilen_gehen_kann-7" data-name="Ein sehr langer Titel, der über
+mehrere Zeilen gehen kann" class="cls-20" transform="translate(24 127)"><tspan x="0" y="0">Ein sehr langer Titel, der über</tspan><tspan x="0" y="24">mehrere Zeilen gehen kann</tspan></text>
+        <g id="Group_451-7" data-name="Group 451" transform="translate(10 -75)">
+          <rect id="Rectangle_135-7" data-name="Rectangle 135" class="cls-21" width="33" height="12" rx="6" transform="translate(312 187)"/>
+          <g class="cls-29" transform="matrix(1, 0, 0, 1, -10, -530)">
+            <circle id="Ellipse_68-14" data-name="Ellipse 68" class="cls-22" cx="10" cy="10" r="10" transform="translate(337 713)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_452" data-name="Group 452">
+      <g id="Group_450" data-name="Group 450" transform="translate(0 222)">
+        <text id="Music" class="cls-23" transform="translate(41 564)"><tspan x="0" y="0">Music</tspan></text>
+        <rect id="Rectangle_252" data-name="Rectangle 252" class="cls-24" width="375" height="63" transform="translate(0 527)"/>
+        <line id="Line_65" data-name="Line 65" class="cls-25" x2="374.5" transform="translate(0.5 526.5)"/>
+      </g>
+      <path id="Icon_awesome-list" data-name="Icon awesome-list" class="cls-26" d="M5.625,25.875h-4.5A1.125,1.125,0,0,0,0,27v4.5a1.125,1.125,0,0,0,1.125,1.125h4.5A1.125,1.125,0,0,0,6.75,31.5V27A1.125,1.125,0,0,0,5.625,25.875Zm0-22.5h-4.5A1.125,1.125,0,0,0,0,4.5V9a1.125,1.125,0,0,0,1.125,1.125h4.5A1.125,1.125,0,0,0,6.75,9V4.5A1.125,1.125,0,0,0,5.625,3.375Zm0,11.25h-4.5A1.125,1.125,0,0,0,0,15.75v4.5a1.125,1.125,0,0,0,1.125,1.125h4.5A1.125,1.125,0,0,0,6.75,20.25v-4.5A1.125,1.125,0,0,0,5.625,14.625ZM34.875,27h-22.5a1.125,1.125,0,0,0-1.125,1.125v2.25A1.125,1.125,0,0,0,12.375,31.5h22.5A1.125,1.125,0,0,0,36,30.375v-2.25A1.125,1.125,0,0,0,34.875,27Zm0-22.5h-22.5A1.125,1.125,0,0,0,11.25,5.625v2.25A1.125,1.125,0,0,0,12.375,9h22.5A1.125,1.125,0,0,0,36,7.875V5.625A1.125,1.125,0,0,0,34.875,4.5Zm0,11.25h-22.5a1.125,1.125,0,0,0-1.125,1.125v2.25a1.125,1.125,0,0,0,1.125,1.125h22.5A1.125,1.125,0,0,0,36,19.125v-2.25A1.125,1.125,0,0,0,34.875,15.75Z" transform="translate(39 762.625)"/>
+      <path id="Icon_awesome-calendar-alt" data-name="Icon awesome-calendar-alt" class="cls-26" d="M0,32.625A3.376,3.376,0,0,0,3.375,36h24.75A3.376,3.376,0,0,0,31.5,32.625V13.5H0ZM22.5,18.844A.846.846,0,0,1,23.344,18h2.813a.846.846,0,0,1,.844.844v2.813a.846.846,0,0,1-.844.844H23.344a.846.846,0,0,1-.844-.844Zm0,9A.846.846,0,0,1,23.344,27h2.813a.846.846,0,0,1,.844.844v2.813a.846.846,0,0,1-.844.844H23.344a.846.846,0,0,1-.844-.844Zm-9-9A.846.846,0,0,1,14.344,18h2.813a.846.846,0,0,1,.844.844v2.813a.846.846,0,0,1-.844.844H14.344a.846.846,0,0,1-.844-.844Zm0,9A.846.846,0,0,1,14.344,27h2.813a.846.846,0,0,1,.844.844v2.813a.846.846,0,0,1-.844.844H14.344a.846.846,0,0,1-.844-.844Zm-9-9A.846.846,0,0,1,5.344,18H8.156A.846.846,0,0,1,9,18.844v2.813a.846.846,0,0,1-.844.844H5.344a.846.846,0,0,1-.844-.844Zm0,9A.846.846,0,0,1,5.344,27H8.156A.846.846,0,0,1,9,27.844v2.813a.846.846,0,0,1-.844.844H5.344a.846.846,0,0,1-.844-.844ZM28.125,4.5H24.75V1.125A1.128,1.128,0,0,0,23.625,0h-2.25A1.128,1.128,0,0,0,20.25,1.125V4.5h-9V1.125A1.128,1.128,0,0,0,10.125,0H7.875A1.128,1.128,0,0,0,6.75,1.125V4.5H3.375A3.376,3.376,0,0,0,0,7.875V11.25H31.5V7.875A3.376,3.376,0,0,0,28.125,4.5Z" transform="translate(171.75 762.625)"/>
+      <g id="Icon_ionic-ios-mail" data-name="Icon ionic-ios-mail" transform="translate(296.625 763.125)">
+        <path id="Path_552" data-name="Path 552" d="M32.386,10.357,24.82,18.063a.136.136,0,0,0,0,.2L30.115,23.9a.912.912,0,0,1,0,1.294.917.917,0,0,1-1.294,0l-5.273-5.618a.144.144,0,0,0-.2,0l-1.287,1.308a5.661,5.661,0,0,1-4.036,1.7,5.775,5.775,0,0,1-4.12-1.751l-1.238-1.259a.144.144,0,0,0-.2,0L7.186,25.193a.917.917,0,0,1-1.294,0,.912.912,0,0,1,0-1.294l5.295-5.639a.15.15,0,0,0,0-.2L3.614,10.357a.139.139,0,0,0-.239.1v15.42a2.257,2.257,0,0,0,2.25,2.25h24.75a2.257,2.257,0,0,0,2.25-2.25V10.455A.141.141,0,0,0,32.386,10.357Z"/>
+        <path id="Path_553" data-name="Path 553" d="M18,20.749A3.823,3.823,0,0,0,20.749,19.6L31.781,8.367a2.21,2.21,0,0,0-1.392-.492H5.618a2.2,2.2,0,0,0-1.392.492L15.258,19.6A3.823,3.823,0,0,0,18,20.749Z"/>
+      </g>
+    </g>
+    <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" class="cls-9" d="M15.321,18l8.937-8.93a1.688,1.688,0,0,0-2.391-2.384L11.742,16.8a1.685,1.685,0,0,0-.049,2.327L21.86,29.32a1.688,1.688,0,0,0,2.391-2.384Z" transform="translate(9.749 28.806)"/>
+    <path id="Icon_ionic-ios-arrow-forward" data-name="Icon ionic-ios-arrow-forward" class="cls-9" d="M20.679,18,11.742,9.07a1.681,1.681,0,0,1,0-2.384,1.7,1.7,0,0,1,2.391,0L24.258,16.8a1.685,1.685,0,0,1,.049,2.327L14.14,29.32a1.688,1.688,0,0,1-2.391-2.384Z" transform="translate(53.957 28.805)"/>
+  </g>
+</svg>
